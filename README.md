@@ -8,7 +8,7 @@ Description: This is a collection of three regular expression functions that are
 | `REGEXREPLACE()` | [Link](https://support.google.com/docs/answer/3098245) |
 
 ## Install Instructions:
-1. Download 'Regular Expression Add-In 1.0.xlam'
+1. Download 'Regular Expression Add-In 1.1.xlam'
 2. Open Microsoft Excel
 3. Click the 'Developer' tab
 4. Click the 'Excel Add-ins' button
