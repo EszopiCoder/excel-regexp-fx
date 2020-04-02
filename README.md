@@ -13,6 +13,8 @@ Description: This is a collection of three regular expression functions that are
 3. Click the 'Developer' tab
 4. Click the 'Excel Add-ins' button
 5. Click the 'Browse...' button, and find the location of the file.
+6. A message should appear showing the add-in was successfully installed.
+7. The functions are located under the 'Formulas' tab under the 'Function Library' group in the 'Text' category.
 
 
 Compatibility: Microsoft Excel 2010+
