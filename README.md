@@ -1,6 +1,6 @@
 # Regular Expression Functions Excel Add-In
 ## Purpose and Features
-- Translate regular expression functions from Google Sheets but not currently supported in Microsoft Excel
+- Translate regular expression functions from Google Sheets not currently supported in Microsoft Excel
 ## Compatibility
 Microsoft Excel 2010+ (OS must be able to support regular expression object)
 ## Installation
