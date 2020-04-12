@@ -1,23 +1,18 @@
 # Regular Expression Functions Excel Add-In
-Description: This is a collection of three regular expression functions that are available in Google Sheets but not available in Microsoft Excel.
+## Purpose and Features
+- Translate regular expression functions from Google Sheets but not currently supported in Microsoft Excel
+## Compatibility
+Microsoft Excel 2010+ (OS must be able to support regular expression object)
+## Installation
+1. Download 'Regular Expression Add-In 1.1.xlam'
+2. Follow these [instructions](https://support.office.com/en-us/article/add-or-remove-add-ins-in-excel-0af570c4-5cf3-4fa9-9b88-403625a0b460) from Microsoft
+## Usage
+The functions are located under the 'Formulas' tab under the 'Function Library' group in the 'Text' category (see images).
 
 | Function Name | Documentation |
 | --- | --- |
 | `REGEXMATCH()` | [Link](https://support.google.com/docs/answer/3098292) |
 | `REGEXEXTRACT()` | [Link](https://support.google.com/docs/answer/3098244) |
 | `REGEXREPLACE()` | [Link](https://support.google.com/docs/answer/3098245) |
-
-## Install Instructions:
-1. Download 'Regular Expression Add-In 1.1.xlam'
-2. Open Microsoft Excel
-3. Click the 'Developer' tab
-4. Click the 'Excel Add-ins' button
-5. Click the 'Browse...' button, and find the location of the file.
-6. A message should appear showing the add-in was successfully installed.
-7. The functions are located under the 'Formulas' tab under the 'Function Library' group in the 'Text' category.
-
-
-Compatibility: Microsoft Excel 2010+
-
-
-If you have any questions or find any bugs, please contact EszopiCoder at pharm.coder@gmail.com
+## Sample Images
+<img src="Images/RegExMenu.PNG">
